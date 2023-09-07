@@ -1,1 +1,18 @@
 /* Place CSS styles here */
+
+body { 
+    color: purple;
+    background-color: beige;
+}
+img {
+    width: 25%;
+}
+
+.christmascard{
+    text-align: center;
+    color: aqua;
+}
+
+.christmascard{
+    border: 10px solid rgb(68, 68, 133);
+}
